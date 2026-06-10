@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+matplotlib
+pandas
+plotly
+Pillow
+scikit-image
+scipy
+fastapi
+uvicorn
+python-multipart
